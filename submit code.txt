@@ -1,1 +1,20 @@
 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
+
+Your identification has been saved in /home/michel/.ssh/id_rsa
+Your public key has been saved in /home/michel/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:bg7evSNvSMnwm40FYd+ZXAEDO6MRllWa83t4UwCxwsI michel@am-001dba8046c4.intern
+The key's randomart image is:
++---[RSA 3072]----+
+|        oooo*o.. |
+|       o+o + +.  |
+|       .EoXo.+.  |
+|      . .+.*=  . |
+|       +So  .   .|
+|       .= .  o . |
+|      ..oB  o +  |
+|     . =*.+  o . |
+|      . o++o     |
++----[SHA256]-----+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCld3xK0NG3PJguoZRZCQ2In7H8fvGHODDcM5WJhFyxjNvldusVH65N1Nzs7q2b+n/jXj7uM8+GPKjOq7qTUAlO0w/mLt5+9lnLhuv6wnU74EsqL1kP5UMqLjjH7leE9vYQf4Vmo51W++5yrT7t4TbXBUs8IB+r7Op7ggM4cmCxoovuVTfRrpPJ1gtaxZwwcgN1HN38u4HPU+V1Kk3oABI8bdgRFh2Bh6NBfNmeS78J8QAX60f9gtKsTmym4I43D6YiKhq+Nx0GTzwvLm38VAXBQbHBN347eqnSipspCr24NEBN03vHhhr3Jo12qO1NuHaAN1PxS+rsmmuRFQnF+uFRiaqtELeG1OJE1lHw+ziRU4s/H/5z5nnAKSEtOa9jVvNB1DXt4ghniTve7FTtJw3fPTRSRnqkNInbaxIQK8HHvgFVOc2LLW4AG16bNjyx2HQGula8OEmc4B/nRXsiStK23R68CYSkbFdNUHRdPqGGueXfb/NHBPpTamODKIDvJd0= michel@am-001dba8046c4.intern
