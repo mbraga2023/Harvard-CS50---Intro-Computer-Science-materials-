@@ -4,9 +4,6 @@
 #include <string.h>
 #include <math.h>
 
-    int index = round ();
-
-
 int main()
 {
  string text = get_string("Text: ");
@@ -34,30 +31,28 @@ for (int i=0;text[i] !='\0';i++)
 for (int i=0; text[i]!='\0';i++)
 {
     if(text[i]=='.'||text[i]=='!'||text[i]=='?')
-                {       
-                frases++;
-                }
+    {       
+        frases++;
+    }
 }
-    float L = (float)letras/(float)palavras *100;
-    float S = (float)frases/(float)palavras*100;
-    int index = round (0.0588 * (L) - 0.296 * (S)- 15.8);
+    float L = (float)letras/(float)palavras *100.0;
+    float S = (float)frases/(float)palavras*100.0;
+    int index = round(0.0588 * L - 0.296 * S - 15.8);
 
-    if (index<1)
+    if (index < 1)
     {
         printf("Before Grade 1\n");
     }
-    if(index>16)
+    else if(index > 16)
     {
-        printf ("Grade 16+\n");
+        printf("Grade 16+\n");
     }
     else
     {
-    printf ("Grade %i\n", index);
+        printf ("Grade %d\n", index);
     }
-
-printf("Letras %i\n", letras);
-printf("Palavras %i\n", palavras);
-printf("Frases %i\n", frases);
-
-
+return 0;
+//printf("Letras %i\n", letras);
+//printf("Palavras %i\n", palavras);
+//printf("Frases %i\n", frases);
 }
