@@ -55,3 +55,67 @@ Selection sort
 Bubble sort
 Recursion
 Merge sort
+
+Lecture 4
+
+    Welcome!
+    Memory
+    Hexadecimal
+    Addresses
+    Pointers
+    Strings
+    Pointer Arithmetic
+    Comparing Strings
+    Copying
+    Valgrind
+    Garbage Values
+    Pointer Fun with Binky
+    Swap
+    Overflow
+    scanf
+    Files
+    Summing Up
+
+Lecture 5
+
+    Welcome!
+    Data Structures
+    Stacks and Queues
+    Jack Learns the Facts
+    Resizing Arrays
+    Linked Lists
+    Trees
+    Dictionaries
+    Hashing and Hash Tables
+    Tries
+    Summing Up
+
+Lecture 6
+
+    Welcome!
+    Python
+    Hello
+    Types
+    Speller
+    Image Recognition
+    CS50 Library
+    Conditionals
+    Variables
+    Loops
+    Calculator
+    Compare
+    Object-Oriented Programming
+    Meow
+    Mario
+    Scores
+    Uppercase
+    Greet
+    Exit Status
+    Search
+    Phonebook
+    Comparison
+    Swap
+    CSV
+    Regular Expressions
+    Speech
+    Summing Up
